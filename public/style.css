@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p, h2{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main{
+    text-align: center;
+}
+
+button{
+    height: 30px;
+    border: none;
+    transition: background-color 500ms ease-out;
+
+
+}
+
+button:hover{
+    background-color:#00bfff;
+    cursor: pointer;
+}
+
